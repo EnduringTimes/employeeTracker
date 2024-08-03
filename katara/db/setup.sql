@@ -2,8 +2,6 @@
 -- Create the database
 CREATE DATABASE emtracker;
 
-
-
 -- Create the department table
 CREATE TABLE department (
     id SERIAL PRIMARY KEY,
